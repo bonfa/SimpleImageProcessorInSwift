@@ -1,5 +1,6 @@
 # Simple Image Processor In Swift
-The project consists in doing some simple image processing on a default image. Starting from a already present class, _RGBAImage_, that allows simple operations on an image, some basic filters have been created with which process the image.__
+The project consists in doing some simple image processing on a default image. Starting from a already present class, _RGBAImage_, that allows simple operations on an image, some basic filters have been created with which process the image.
+
 This is the assignment of the course [Introduction To Swift Programming](https://www.coursera.org/learn/swift-programming/) by University of Toronto, available on Coursera.
 
 **Requirements of the project:**
